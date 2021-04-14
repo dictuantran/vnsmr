@@ -1,0 +1,7 @@
+setup.py
+vnsmr.egg-info/PKG-INFO
+vnsmr.egg-info/SOURCES.txt
+vnsmr.egg-info/dependency_links.txt
+vnsmr.egg-info/not-zip-safe
+vnsmr.egg-info/requires.txt
+vnsmr.egg-info/top_level.txt

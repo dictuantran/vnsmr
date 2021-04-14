@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: vnsmr
+Version: 0.0.2
+Summary: Viet Nam stock market
+Home-page: https://github.com/dictuantran/vnsmr
+Author: tuantran
+Author-email: dictuantran@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: data
+Platform: UNKNOWN
+Classifier: Development Status :: 0 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Trader/Investor/Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Cython
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Financial/Stock Market
